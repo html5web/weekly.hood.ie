@@ -114,12 +114,11 @@ ul.posts .draft:before {
   overflow: hidden;
 }
 
-.site .footer .contact {
-  float: left;
-  margin-right: 3em;
+.site .footer .meta {
+  float: right;
 }
 
-.site .footer .contact a {
+.site .footer a {
   color: #8085C1;
 }
 
