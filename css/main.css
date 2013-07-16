@@ -169,3 +169,7 @@ ul.posts .draft:before {
 #post pre.terminal code {
   background-color: #333;
 }
+.draft-edit {
+  background: #eee;
+  padding: 5px 10px;
+}
