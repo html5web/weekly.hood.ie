@@ -1,0 +1,7 @@
+name: Hoodie Weekly
+github_url: https://github.com/hoodiehq/weekly-updates
+
+# blog posts
+excerpt_separator: "\n\n\n"
+pygments: true
+permalink: /:year/:month/:day.html

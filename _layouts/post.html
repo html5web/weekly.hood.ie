@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+
+
+{% if page.draft }
+<p class="draft-edit">
+  This update is work in progress an will be published on {{ page.date | date_to_string }}.
+  You can <a href="{{site.github_url}}/edit/gh-pages/{{ page.path }}">edit it here</a>.
+</p>
+{% else }
+<p class="meta">{{ page.date | date_to_string }}</p>
+{% endif }
+
+<div id="post">
+{{ content }}
+</div>
