@@ -8,7 +8,7 @@ draft:  1
 
 ### Agenda
 
-* define coding standards, .editorconfig, .jshintrc for hoodie repos
+* [define coding standards, .editorconfig, .jshintrc for hoodie repos](https://github.com/hoodiehq/weekly-updates/issues/1)
 
 ### News
 
