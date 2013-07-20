@@ -5,12 +5,7 @@ date:   2013-07-22 16:00:00
 draft:  1
 ---
 
-
-### Agenda
-
-* [define coding standards, .editorconfig, .jshintrc for hoodie repos](https://github.com/hoodiehq/weekly-updates/issues/1)
-
-### News
-
-* @ro-ka created a [grunt-hoodie](https://github.com/ro-ka/grunt-hoodie) task that allows to start Hoodie with grunt.
+* [@ro-ka](https://github.com/ro-ka) created a [grunt-hoodie](https://github.com/ro-ka/grunt-hoodie) task that allows to start Hoodie with grunt.
   Combined with a grunt-connect proxy setting, this should simplify working with Hoodie & Grunt / Yeoman big time. Thanks Robert!
+* setup weekly.hood.ie ([@gr2m](https://github.com/gr2m))
+* added [@svnlto](https://github.com/svnlto) as core Hoodie member
