@@ -4,12 +4,12 @@ title:  "Weekly update #1"
 date:   2013-07-15 16:00:00
 ---
 
-* [GitHub-Issue for collecting community feedback](https://github.com/hoodiehq/hoodie-server/issues/96) ([@gr2m](https://github.com/gr2m))
-* [Blogpost: Announcing Hoodie Plugin Architecture](http://blog.hood.ie/2013/07/big-things-to-come-building-the-hoodie-plugin-architecture-making-hoodie-plugin-ready/) ([@ffffux](https://github.com/ffffux))
+* new issue for [collecting community feedback](https://github.com/hoodiehq/hoodie-server/issues/96) ([@gr2m](https://github.com/gr2m))
+* Blogpost: [Announcing Hoodie Plugin Architecture](http://blog.hood.ie/2013/07/big-things-to-come-building-the-hoodie-plugin-architecture-making-hoodie-plugin-ready/) ([@ffffux](https://github.com/ffffux))
 * hoodie-app is now hoodie-server ([@caolan](https://github.com/caolan))
 * config API for plugins ([@caolan](https://github.com/caolan))
 * simplified my-first-hoodie ([@gr2m](https://github.com/gr2m))
-* Proper typography for hood.ie ([@espylaub](https://github.com/espy))
+* proper typography for hood.ie ([@espylaub](https://github.com/espy))
 * create sponsoring pages ([@espylaub](https://github.com/espy))
 * make pocket compatible with new Hoodie Plugin Architecture [@gr2m](https://github.com/gr2m),
 * new hoodie users plugin worker - skeleton ([@gr2m](https://github.com/gr2m))
