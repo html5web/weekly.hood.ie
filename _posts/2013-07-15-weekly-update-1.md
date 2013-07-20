@@ -23,4 +23,4 @@ Communications
 * create sponsoring pages ([@espylaub](https://github.com/espy))
 * new issue for [collecting community feedback](https://github.com/hoodiehq/hoodie-server/issues/96) ([@gr2m](https://github.com/gr2m))
 * Blogpost: [Announcing Hoodie Plugin Architecture](http://blog.hood.ie/2013/07/big-things-to-come-building-the-hoodie-plugin-architecture-making-hoodie-plugin-ready/) ([@ffffux](https://github.com/ffffux))
-* * Blogpost: [People, time and a room with a view: developing Hoodie further](http://blog.hood.ie/2013/07/people-time-and-a-room-with-a-view-developing-hoodie-further/) ([@ffffux](https://github.com/ffffux))
+* Blogpost: [People, time and a room with a view: developing Hoodie further](http://blog.hood.ie/2013/07/people-time-and-a-room-with-a-view-developing-hoodie-further/) ([@ffffux](https://github.com/ffffux))
