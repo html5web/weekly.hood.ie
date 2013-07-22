@@ -10,3 +10,4 @@ draft:  1
 * setup weekly.hood.ie ([@gr2m](https://github.com/gr2m))
 * added [@svnlto](https://github.com/svnlto) as core Hoodie member
 * Got Hoodie running on Raspberry Pi and published the guide [Hoodieberry Pie: Hoodie on Raspberry Pi](http://blog.hood.ie/2013/07/hoodieberry-pi-hoodie-on-raspberry-pi-3/) ([@janl](https://github.com/janl))
+* New API for Hoodie workers done, as part of the new Hoodie Plugin Architecture ([@caolan](https://github.com/caolan))
