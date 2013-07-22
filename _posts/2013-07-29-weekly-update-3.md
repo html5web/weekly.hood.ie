@@ -2,6 +2,7 @@
 layout: post
 title:  "Weekly update #2"
 date:   2013-07-22 16:00:00
+draft:  1
 ---
 
 * [@ro-ka](https://github.com/ro-ka) created a [grunt-hoodie](https://github.com/ro-ka/grunt-hoodie) task that allows to start Hoodie with grunt.
