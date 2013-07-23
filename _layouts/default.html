@@ -13,6 +13,9 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="{{ page.root_path }}css/main.css">
 
+        <!-- Atom feed -->
+  		<link rel="alternate" type="application/atom+xml" title="Hoodie Weekly Updates" href="/atom.xml">
+
     </head>
     <body>
 
@@ -27,7 +30,8 @@
             <div class="footer">
               <div class="meta">
                 <p>
-                  ✎  <a href="{{site.github_url}}/edit/gh-pages/{{ page.path }}">edit this page</a>
+                  <input type="button" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()" value="Follow us"> &nbsp; 
+                  ✎  <a href="{{site.github_url}}/edit/gh-pages/{{ page.path }}">edit this page</a> | 
                 </p>
               </div>
 
