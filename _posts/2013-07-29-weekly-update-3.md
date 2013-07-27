@@ -6,3 +6,4 @@ draft:  1
 ---
 
 * rewrite hoodie.js test suite using mocha [@svnlto](https://github.com/svnlto)
+* rewrite hoodie.js internals using factories [@gr2m](https://github.com/gr2m)
