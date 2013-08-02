@@ -8,7 +8,7 @@ draft:  1
 Engineering
 
 * Welcomed [Robert](https://github.com/ro-ka) as a new Hoodie core committer
-* Released a [new Yeoman Generator for Hoodie](https://npmjs.org/package/generator-hoodie) ([Robert](https://github.com/ro-ka))
+* Released a [new Yeoman Generator for Hoodie](https://npmjs.org/package/generator-hoodie) ([ro-ka](https://github.com/ro-ka))
 
 Communications
 
