@@ -9,6 +9,9 @@ Engineering
 
 * Welcomed [Robert](https://github.com/ro-ka) as a new Hoodie core committer
 * Released a [new Yeoman Generator for Hoodie](https://npmjs.org/package/generator-hoodie) ([ro-ka](https://github.com/ro-ka))
+* work on Hoodie/Persona ([@janl](https://github.com/janl))
+* new Hoodie Plugin API ([@caolan](https://github.com/caolan))
+* hoodie.js: new internal implementation & mocha testing (WIP) ([@svnlto](https://github.com/svnlto), [@gr2m](https://github.com/gr2m))
 
 Communications
 
