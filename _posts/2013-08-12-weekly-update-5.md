@@ -9,7 +9,7 @@ Engineering
 
 * _features & bug fixes here_
 
-Community
+Communications
 
 * _blog posts, tutorials, screencasts here_
 * Blog post: [Weekly activity report #4](http://blog.hood.ie/2013/08/hoodie-weekly-activity-report-4/)  ([@ffffux](https://github.com/ffffux))
