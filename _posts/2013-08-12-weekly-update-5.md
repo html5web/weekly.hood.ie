@@ -8,6 +8,7 @@ draft:  1
 Engineering
 
 * _features & bug fixes here_
+* hoodie-cli: Bug fixes and new hoodie app template based on [vertebrae](https://github.com/svnlto/backbone-hoodie) ([@svnlto](https://github.com/svnlto)) 
 
 Communications
 
