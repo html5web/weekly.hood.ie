@@ -9,6 +9,8 @@ Engineering
 
 * _features & bug fixes here_
 * hoodie-cli: Bug fixes and new hoodie app template based on [vertebrae](https://github.com/svnlto/backbone-hoodie) ([@svnlto](https://github.com/svnlto)) 
+* hoodie-server: move open-browser functionality to hoodie-cli. ([@svnlto](https://github.com/svnlto))
+* hoodie-server: add testing and linting capability. ([@svnlto](https://github.com/svnlto))
 
 Communications
 
