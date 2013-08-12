@@ -19,6 +19,7 @@ Engineering
 
 Communications
 
+* Step-by-step tutorial on the upcoming plugin architecture and API - WIP ([@espy](https://github.com/espy/))
 * Blog post: [Weekly activity report #4](http://blog.hood.ie/2013/08/hoodie-weekly-activity-report-4/)  ([@ffffux](https://github.com/ffffux))
 * Blog post: [Proof of Concept: Hoodie login with Persona](http://blog.hood.ie/2013/08/proof-of-concept-hoodie-login-with-persona/)  ([@janl](https://github.com/janl))
 * Blog post: [Hoodie Presentation at Glasgow JS (incl. recording & slides](http://blog.hood.ie/2013/08/hoodie-presentation-at-glasgow-js/)  ([@janl](https://github.com/janl))
