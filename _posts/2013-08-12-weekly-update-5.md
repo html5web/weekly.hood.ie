@@ -14,7 +14,7 @@ Engineering
 * API change: hoodie.open(storeName, options) now supports passing an options.validate method to validate objects locally before they get stored - WIP ([@gr2m](https://github.com/gr2m))
 * internal: simplified implementation of hoodie.remote by simply creating a remoteStore instance, with some extra parameters - WIP ([@gr2m](https://github.com/gr2m))
 * internal: localStore and remoteStore do not longer inherit from storeBase, instead there is a storeApi module now that can be configured (validation, persistance hooks) - WIP ([@gr2m](https://github.com/gr2m))
-* specs: fixing all the test for the upcoming (interal) rewrite in v0.3-cheesecake - WIP ([@gr2m](https://github.com/gr2m))
+* specs: fixing all the test for the upcoming (internal) rewrite in v0.3-cheesecake - WIP ([@gr2m](https://github.com/gr2m))
 * added emoji :smiley_cat: support :heart:
 
 Communications
