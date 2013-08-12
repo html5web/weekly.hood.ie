@@ -7,7 +7,7 @@ draft:  1
 
 Engineering
 
-* hoodie command-line interface (cli): Bug fixes and new hoodie app template based on [vertebrae](https://github.com/svnlto/backbone-hoodie) ([@svnlto](https://github.com/svnlto)) 
+* hoodie command-line interface (cli): Bug fixes and new hoodie app template based on [vertebrae](https://github.com/svnlto/backbone-hoodie) ([@svnlto](https://github.com/svnlto))
 * hoodie-server: move open-browser functionality to hoodie cli - WIP ([@svnlto](https://github.com/svnlto))
 * hoodie-server: add testing and linting capability - WIP ([@svnlto](https://github.com/svnlto))
 * API change: removed hoodie.store.cache, hoodie.store.markAsChanged, hoodie.store.markAllAsChanged from public API - WIP ([@gr2m](https://github.com/gr2m))
@@ -15,6 +15,7 @@ Engineering
 * internal: simplified implementation of hoodie.remote by simply creating a remoteStore instance, with some extra parameters - WIP ([@gr2m](https://github.com/gr2m))
 * internal: localStore and remoteStore do not longer inherit from storeBase, instead there is a storeApi module now that can be configured (validation, persistance hooks) - WIP ([@gr2m](https://github.com/gr2m))
 * specs: fixing all the test for the upcoming (interal) rewrite in v0.3-cheesecake - WIP ([@gr2m](https://github.com/gr2m))
+* added emoji :smiley_cat: support :heart:
 
 Communications
 
