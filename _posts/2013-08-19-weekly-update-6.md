@@ -7,7 +7,7 @@ draft:  1
 
 Engineering
 
-* _what we did_
+* Wrote and deployed a new responsive wordpress theme for blog.hood.ie - ([@espy](https://github.com/espy/))
 
 Communications
 
