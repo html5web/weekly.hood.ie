@@ -8,6 +8,7 @@ draft:  1
 Engineering
 
 * Wrote and deployed a new responsive Wordpress Theme for blog.hood.ie - ([@espy](https://github.com/espy/))
+* add [new way](https://github.com/hoodiehq/hoodie-cli/issues/14) to install and set up plugins - WIP ([@svnlto](https://github.com/svnlto))
 
 Communications
 
