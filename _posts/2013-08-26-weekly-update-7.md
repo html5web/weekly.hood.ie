@@ -6,7 +6,7 @@ date:   2013-08-26 16:00:00
 
 Engineering
 
-* _tbd_
+* Tracking *New Plugin Architecture* issues in a milestone on `hoodie-server`: <https://github.com/hoodiehq/hoodie-server/issues?milestone=1&state=open>
 
 Communications
 
