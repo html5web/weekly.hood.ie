@@ -7,8 +7,9 @@ draft:  1
 
 Engineering
 
-* _tbd_
+* :ship: hoodie.js v0.3 "cheesecake" ([@svnlto](https://github.com/svnlto), [@gr2m](https://github.com/gr2m))
+* [scoped hoodie.store](https://github.com/hoodiehq/hoodie.js/pull/124) ([@gr2m](https://github.com/gr2m))
 
 Communications
 
-* _tbd_
+* [Hoodies IRL: JSConf EU](http://blog.hood.ie/2013/08/hoodies-irl-jsconf-eu/) ([@ffffux](https://github.com/ffffux))
