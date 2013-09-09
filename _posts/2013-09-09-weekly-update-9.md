@@ -8,6 +8,7 @@ draft:  1
 Engineering
 
 * hoodie.js v0.4 "peanuts" ([@svnlto](https://github.com/svnlto), [@gr2m](https://github.com/gr2m))
+* hoodie-cli - pass branch name with template parameter / install plugins by passing array  
 * [hoodie.task API](https://github.com/hoodiehq/hoodie.js/pull/137) ([@gr2m](https://github.com/gr2m))
 
 Communications
