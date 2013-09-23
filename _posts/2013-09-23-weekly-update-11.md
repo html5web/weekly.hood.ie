@@ -8,6 +8,8 @@ draft:  1
 Engineering
 
 * hoodie.js v0.x [wip] "browserify conversion" ([@svnlto](https://github.com/svnlto))
+* re-fire unhandled tasks on startup (plugins) ([@caolan](https://github.com/caolan))
+* fix for parsing malformed hoodie docs when using plugin api ([@caolan](https://github.com/caolan))
 
 Communications
 
