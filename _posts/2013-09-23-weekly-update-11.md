@@ -7,7 +7,7 @@ draft:  1
 
 Engineering
 
-* test
+* hoodie.js v0.x [wip] "browserify conversion" ([@svnlto](https://github.com/svnlto))
 
 Communications
 
