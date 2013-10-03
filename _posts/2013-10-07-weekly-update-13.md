@@ -11,4 +11,4 @@ Engineering
 
 Communications
 
-* tbd
+* Blog: ["Hoodie at LXJS 2013"](http://blog.hood.ie/2013/10/hoodie-at-lxjs-2013/) ([@ffffux](https://github.com/ffffux))
