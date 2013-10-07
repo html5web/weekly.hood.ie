@@ -18,7 +18,4 @@ Communications
 
 * Blog: ["Hoodie at LXJS 2013"](http://blog.hood.ie/2013/10/hoodie-at-lxjs-2013/) ([@ffffux](https://github.com/ffffux))
 * Blog: ["TGIF! (8) Big Data, Joblint, improving OS contribution, Lavabit, LXJS](http://blog.hood.ie/2013/10/tgif-big-data-joblint-improving-os-contribution-lavabit-lxjs/) ([@ffffux](https://github.com/ffffux))
-
-Conferences
-
-* Introducing Hoodie at [LXJS](http://2013.lxjs.org); watch the talk [here](http://www.youtube.com/watch?v=iyjwlvwOoA4) ([caolan](https://github.com/caolan) and [espy](https://github.com/espy))
+* Conference: Introducing Hoodie at [LXJS](http://2013.lxjs.org); watch the talk [here](http://www.youtube.com/watch?v=iyjwlvwOoA4) ([caolan](https://github.com/caolan) and [espy](https://github.com/espy))
