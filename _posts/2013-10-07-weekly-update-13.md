@@ -19,4 +19,5 @@ Communications
 * Blog: ["TGIF! (8) Big Data, Joblint, improving OS contribution, Lavabit, LXJS](http://blog.hood.ie/2013/10/tgif-big-data-joblint-improving-os-contribution-lavabit-lxjs/) ([@ffffux](https://github.com/ffffux))
 
 Conferences
+
 * Introducing Hoodie's "Why" and "How" at [LXJS](http://2013.lxjs.org); watch the talk [here](http://www.youtube.com/watch?v=iyjwlvwOoA4) ([caolan](https://github.com/caolan) and [espy](https://github.com/espy))
