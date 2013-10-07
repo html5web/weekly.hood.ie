@@ -11,6 +11,9 @@ Engineering
 * [move sudo check to hoodie-cli](https://github.com/hoodiehq/hoodie-server/commit/5051967000ad4ea55a72dc4e283b97e82f575b4d) ([svnlto](https://github.com/svnlto))
 * development + implementation of ["Hoodie Drawing"](https://github.com/caolan/hoodie-drawing)-App ([caolan](https://github.com/caolan))
 * [upgrade Hoodie-Plugins-API](https://github.com/hoodiehq/hoodie-plugins-manager/commit/783217fd298c6a1a13865c2c565359a4b41a5db7) ([caolan](https://github.com/caolan))
+* updates to hoodie-plugin-users to fix listening for tasks after db creation ([caolan](https://github.com/caolan)
+* get hoodie-plugin-email sending emails ([caolan](https://github.com/caolan))
+* add hoodie-plugin-appconfig for modifying global app configuration in pocket ([caolan](https://github.com/caolan))
 * tbd
 
 Communications
