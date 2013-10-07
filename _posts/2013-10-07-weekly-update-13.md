@@ -2,7 +2,6 @@
 layout: post
 title:  "Weekly update #13"
 date:   2013-10-07 16:00:00
-draft:  1
 ---
 
 Engineering
@@ -14,7 +13,6 @@ Engineering
 * [update to hoodie-plugin-users](https://github.com/hoodiehq/hoodie-plugin-users/commit/76335cf7e18b5e9cf388e47ba92eaaf47ac39a9e) to fix listening for tasks after db creation ([caolan](https://github.com/caolan)
 * get hoodie-plugin-email sending emails ([caolan](https://github.com/caolan))
 * add [hoodie-plugin-appconfig](https://github.com/hoodiehq/hoodie-plugin-appconfig) for modifying global app configuration in pocket ([caolan](https://github.com/caolan))
-* tbd
 
 Communications
 
