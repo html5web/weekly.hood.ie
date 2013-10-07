@@ -21,4 +21,4 @@ Communications
 
 Conferences
 
-* Introducing Hoodie's "Why" and "How" at [LXJS](http://2013.lxjs.org); watch the talk [here](http://www.youtube.com/watch?v=iyjwlvwOoA4) ([caolan](https://github.com/caolan) and [espy](https://github.com/espy))
+* Introducing Hoodie at [LXJS](http://2013.lxjs.org); watch the talk [here](http://www.youtube.com/watch?v=iyjwlvwOoA4) ([caolan](https://github.com/caolan) and [espy](https://github.com/espy))
