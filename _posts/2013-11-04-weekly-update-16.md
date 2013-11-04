@@ -10,6 +10,7 @@ Engineering
 * Shipped: :ship: [Plugins!](http://hood.ie/#plugins)
 * Fixed: anonymous signup [#158](https://github.com/hoodiehq/hoodie.js/pull/158) ([gr2m](https://github.com/gr2m))
 * Fixed: push local changes on sign up [#159](https://github.com/hoodiehq/hoodie.js/pull/158) ([gr2m](https://github.com/gr2m))
+* WIP: hoodie.admin.js Coffee2JavaScript conversion ([svnlto](https://github.com/svnlto)) | ([espy](https://github.com/espy))
 
 Communications
 
