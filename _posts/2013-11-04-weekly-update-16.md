@@ -2,7 +2,6 @@
 layout: post
 title:  "Weekly update #16"
 date:   2013-11-04 16:00:00
-draft:  1
 ---
 
 Engineering
