@@ -7,7 +7,7 @@ draft:  1
 
 Engineering
 
-* WIP
+* Fix: `hoodie.account.passwordReset(email)` [#166](https://github.com/hoodiehq/hoodie.js/issues/166) ([gr2m](https://github.com/gr2m))
 
 Communications
 
