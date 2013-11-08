@@ -12,3 +12,5 @@ Engineering
 Communications
 
 * Blog: ["Plugins!"](http://blog.hood.ie/2013/11/plugins/) ([janl](https://github.com/janl))
+* Blog: ["Say hello to Offline First"](http://blog.hood.ie/2013/11/say-hello-to-offline-first/) ([espy](https://github.com/espy))
+* Blog: ["TGIF! (11): be offline and transparent, draw animals, reconsider semantics, wear beards, don't be a superhero and build a better web"](http://blog.hood.ie/2013/11/tgif-11-be-offline-and-transparent-draw-animals-reconsider-semantics-wear-beards-dont-be-a-superhero-and-build-a-better-web/) ([ffffux](https://github.com/ffffux))
