@@ -8,6 +8,7 @@ draft:  1
 Engineering
 
 * Fix: `hoodie.account.passwordReset(email)` [#166](https://github.com/hoodiehq/hoodie.js/issues/166) ([gr2m](https://github.com/gr2m))
+* WIP: Karma Sauce Labs Build [#163](https://github.com/hoodiehq/hoodie.js/issues/163) ([svnlto](https://github.com/svnlto))
 
 Communications
 
